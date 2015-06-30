@@ -48,7 +48,7 @@ title: A blog about computer programs
   {{ content }}
 
 
-<div class="container spacer">
+<div class="container">
     <div class="row-fluid">
 	<div class="span12 well footer">
         <div class="span4">
