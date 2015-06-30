@@ -93,6 +93,7 @@
 	
 	    <div class="hero-unit" id="About">
 			<div class="container" >
+				<a href="#top" align="right"><img src="/img/up-icon.png" /></a>
 			 <div class="row-fluid">
 		   <div class="span5 pic" style="padding:5px;">
 				<img src="img/me.jpg" class="tilt" valign="center" />
