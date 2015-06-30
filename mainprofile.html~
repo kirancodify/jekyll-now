@@ -23,14 +23,14 @@
 			<div class="container">
 				<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
 				<span class="icon-th-list"></span></a>
-				<a href="#" class="brand">KiranCodify</a>
+				<a href="./index.html" class="brand">KiranCodify</a>
 			  <div class="nav-collapse collapse">
 				<ul class="nav pull-right">
 					<!--<li><a href="#About">About</a></li>
 					<li><a href="#work">Smething</a>
 					</li>
 					<li><a href="#portfolio"></a></li> -->
-					<li><a href="#contact">Contact Me</a></li>
+					<a href="#contact" class="brand">Contact Me</a>
 				</ul>
 				</div>
 			</div>
@@ -310,17 +310,16 @@ Sensors and the User Interface. http://pdp.fi/portfolio-items/plink-2013-14/
 			<div class="span4 well">
 			<div class="address-subsection" style="text-align:center">
               <div class="address-icon"><i class="icon-map-marker icon-5x"></i></div>
-              <h4 class="address-title">LOCATE US</h4>
+              <h4 class="address-title">LOCATE ME</h4>
               <address>
-                795 Apartment, Building 600<br>
-                New Delhi, India 94107<br>
-                <abbr title="Phone">P:</abbr> (123) 456-7890
-              </address>
+                Jamerntaival 3A 112<br>
+                Espoo, Finland 02150<br>
+                </address>
             
 
 				<h4>Contact Details</h4>
-				<p><strong>Email:</strong>me@domain.com</p>
-				<p><strong>Phone:</strong>+1-xxx-xxx-xxxx</p>
+				<p><strong>Email:</strong>kiran_m_kumar@outlook.com</p>
+				<p><strong>Phone:</strong>+358465949817</p>
 			</div>
 			</div>
 		</div>
