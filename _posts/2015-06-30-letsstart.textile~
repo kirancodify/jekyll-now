@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Let's Code
+title: My first post - Let's Code
 ---
 
 h1. {{ page.title }}
