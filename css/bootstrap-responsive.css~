@@ -209,12 +209,7 @@
     width: 100%;
     *zoom: 1;
   }
-  .row-fluid:before,
-  .row-fluid:after {
-    display: table;
-    line-height: 0;
-    content: "";
-  }
+  .row-fluid:before
   .row-fluid:after {
     clear: both;
   }
