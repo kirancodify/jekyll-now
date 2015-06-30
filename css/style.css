@@ -283,7 +283,7 @@ table.posts {
 }
 
 table.list_table td a {
-  color: #00f403;
+  color: #030303;
 }
 
 table.list_table td {
@@ -299,7 +299,7 @@ tr.post_row {padding-top: 4px;}
 
 td.date {
   text-align: right;
-  color: #00f403;
+  color: #030303;
 }
 
 td.figure_subtitle {
@@ -309,7 +309,7 @@ td.figure_subtitle {
 }
 
 ul li {
-	color: #00f403;
+	color: #030303;
 }
 
 
@@ -323,7 +323,7 @@ ul.posts {
 }
 
   ul.posts li {
-    color: #00f403;
+    color: #030303;
     line-height: 1.75em;
   }
 
@@ -366,7 +366,7 @@ ol li {
 }
 
   .site .title a {
-    color: #00f403;
+    color: #030303;
     text-decoration: none;
   }
 
@@ -386,7 +386,7 @@ table.books td {
 
 
 #other a {
-  color: #00f403;
+  color: #030303;
 }
   .site .title a.extra {
     text-decoration: none;
@@ -397,7 +397,7 @@ table.books td {
   }
 
   .site .meta {
-    color: #00f403;
+    color: #030303;
 		font-size: 100%;
   }
 
@@ -459,7 +459,7 @@ table.books td {
   }
 
   #post code {
-    color: #00f403;
+    color: #030303;
     border: 1px solid #ddd;
     font-size: 95%;
     padding: 0 .2em;
