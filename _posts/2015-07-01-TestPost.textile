@@ -1,0 +1,11 @@
+---
+layout: post
+title: Let's Code
+---
+
+h1. {{ page.title }}
+
+p(meta). June 30 2015 - Helsinki
+
+This is my stylish new blog to write about things that I have learned.  I developed a passion for coding but there is a ocean out there for me to learn.This blog is just a small gesture of my learning and sharing some challenges I encountered in my coding life!!
+
