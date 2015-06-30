@@ -42,44 +42,27 @@
   {{ content }}
 
 
-  <div class="footer">
-
-    <div class="contact">
-      <img src="https://secure.gravatar.com/avatar/d1b8c2418e72a99c3772ae7dc9fe0736" style="opacity: 0.5" class=""/>
+<div class="container spacer">
+    <div class="row-fluid">
+	<div class="span12 well footer">
+        <div class="span4">
+            <p>&copy; 2015 <a href="#">Kiran Kumar</a></p>
+        </div>
+        <div class="span8 text-center">
+          <a href="#"><img src="img/fb-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/gp-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/in-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/tw-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/yt-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/rss-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/ms-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/pin-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/tum-icon.png"  class='socialmedia'/></a>			
+		  <a href="#"><img src="img/vim-icon.png"  class='socialmedia'/></a>			
+        </div>
+		</div>
     </div>
-    <div class="contact">
-      <p>
-        Robert Berry<br />
-        berrydigital@gmail.com
-      </p>
-    </div>
-    <div class="contactr">
-      <table border=0>
-        <tr>
-          <td>
-            <a href="http://thedriftapp.com" title="the drift">
-              <img height=70 src="/images/drift.png"/>
-            </a>
-          </td>
-          <td>
-            <a href="http://github.com/no0p/" title="github">
-              <img height=70 src="/images/github.png"/>
-            </a>
-          </td>
-          <td>
-            <a href="http://twitter.com/no0p_/" title="twitter">
-              <img src="/images/follow.png"/>
-            </a>
-          </td>
-          <td>
-            <a href="http://feeds.feedburner.com/no0p" title="rss">
-              <img src="/images/rss.png"/>
-            </a>
-          </td>
-        </tr>
-      </table>
-    </div>
-  </div>
+</div>
 
 
 </div>
