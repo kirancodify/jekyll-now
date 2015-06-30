@@ -402,13 +402,10 @@ table.books td {
   }
 
   .site .footer {
-    font-size: 80%;
-    border-top: 1px solid #ccc;
-    margin-top: 2em;
-    padding-top: 2em;
-    overflow: hidden;
-    font-size: 16pt;
-  }
+	{
+    background:#51a351;
+    color:#FFFFFF;
+	}
 
     .site .footer .contact {
       color: #e5e5e5;
