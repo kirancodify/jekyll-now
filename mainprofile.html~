@@ -286,23 +286,17 @@ Sensors and the User Interface. http://pdp.fi/portfolio-items/plink-2013-14/
           
    
             
-            <form action="contact.php" method="post" id="contact-form">
-              <fieldset>
-                <div class="form-group form-group-fullname">
-                  <label class="control-label" for="fullname">NAME *</label>
-                  <input type="text" class="form-control input-lg" name="fullname" id="fullname" placeholder="Enter Your Name">
-                </div>
-                <div class="form-group form-group-email">
-                  <label class="control-label" for="email">E-MAIL *</label>
-                  <input type="text" class="form-control input-lg" name="email" id="email" placeholder="Enter Your E-Mail">
-                </div>
-                <div class="form-group form-group-message">
-                  <label class="control-label" for="message">MESSAGE *</label>
-                  <textarea class="form-control" name="message" id="message" rows="3"></textarea>
-                </div>                
-                <button type="submit" class="btn btn-brand">Submit</button>
-              </fieldset>
-            </form>
+            <!-- Do not change the code! -->
+<a id="foxyform_embed_link_682233" href="http://www.fi.foxyform.com/">foxyform</a>
+<script type="text/javascript">
+(function(d, t){
+   var g = d.createElement(t),
+       s = d.getElementsByTagName(t)[0];
+   g.src = "http://www.fi.foxyform.com/js.php?id=682233&sec_hash=126bff9159a&width=350px";
+   s.parentNode.insertBefore(g, s);
+}(document, "script"));
+</script>
+<!-- Do not change the code! -->
           
           </div>
 
