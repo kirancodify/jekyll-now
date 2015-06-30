@@ -66,6 +66,8 @@ title: A blog about computer programs
   
   {{ content }}
 </div>
+<br>
+<br>
 <div class="footer">
     <div class="row-fluid">
 	<div class="span12 well">
