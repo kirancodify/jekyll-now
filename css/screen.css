@@ -1,0 +1,317 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+.imagedropshadow { padding: 5px; border: solid 1px #EFEFEF; }
+img.imagedropshadow { border: solid 1px #CCC; -moz-box-shadow: 1px 1px 5px #999; -webkit-box-shadow: 1px 1px 5px #999; box-shadow: 1px 1px 5px #999; }
+
+
+body {
+  background: #FFFFFF url(/images/wild_olivia.png);
+  font-family: Ubuntu, Arial, Tahoma;
+	color: #a5a6a7;
+	font-size: 140%;
+  text-align: center;
+}
+
+p {
+  color: #a5a6a7;
+}
+
+h1 {
+	font-size: 160%;
+	color: #e5e5e5;
+	margin-top: 55px;
+		
+}
+h2 {
+  color: #00f403;
+  font-size: 20pt;
+  margin-top: 40px;
+}
+h3 {
+  color: #00f403;
+  font-size: 18pt;
+}
+
+
+h4, h5, h6 {
+  color: #e5e5e5;
+  font-size: 100%;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+p {
+  margin: 1em 0;
+}
+
+.green_text {
+  color: #00f403;
+}
+
+a {
+  color: #e5e5e5;
+}
+
+a:hover {
+}
+
+a:visited {
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+/*****************************************************************************/
+/*
+/* Home
+/*
+/*****************************************************************************/
+
+table.posts {
+  margin-left: 40px;
+}
+
+table.list_table td a {
+  color: #00f403;
+}
+
+table.list_table td {
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  color: white;
+}
+
+tr.post_row {padding-top: 4px;}
+
+
+td.date {
+  text-align: right;
+  color: #00f403;
+}
+
+td.figure_subtitle {
+  font-size: 10pt;
+  color: white;
+  text-align: center;
+}
+
+ul li {
+	color: #00f403;
+}
+
+
+td.post {
+  padding-left: 20px;
+}
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+  ul.posts li {
+    color: #00f403;
+    line-height: 1.75em;
+  }
+
+  ul.posts span {
+    font-family: Monaco, "Courier New", monospace;
+    font-size: 80%;
+  }
+
+/*****************************************************************************/
+/*
+/* Site
+/*
+/*****************************************************************************/
+
+td.trimage {
+  padding: 20px;
+}
+
+.site {
+  font-size: 110%;
+  text-align: justify;
+  width: 42em;
+  margin: 3em auto 2em auto;
+  line-height: 1.5em;
+}
+
+.title {
+  font-size: 20pt;
+  font-weight: bold;
+  float: right;
+}
+
+ol li {
+  color: #e5e5e5;
+}
+
+.subtitle {
+  font-size:16pt;
+  margin-bottom:4px;
+}
+
+  .site .title a {
+    color: #00f403;
+    text-decoration: none;
+  }
+
+  .site .title a:hover {
+    text-decoration: underline;  
+}
+
+table.books td {
+	padding-top: 10px;
+	padding-left: 20px;
+}
+
+
+.books_image {
+	width: 200px;
+}
+
+
+#other a {
+  color: #00f403;
+}
+  .site .title a.extra {
+    text-decoration: none;
+    margin-left: 1em;
+  }
+
+  .site .title a.extra:hover {
+  }
+
+  .site .meta {
+    color: #00f403;
+		font-size: 100%;
+  }
+
+  .site .footer {
+    font-size: 80%;
+    border-top: 1px solid #ccc;
+    margin-top: 2em;
+    padding-top: 2em;
+    overflow: hidden;
+    font-size: 16pt;
+  }
+
+    .site .footer .contact {
+      color: #e5e5e5;
+      float: left;
+      margin-right: 1em;
+    }
+
+    .site .footer .contactr {
+      color: #e5e5e5;
+      float: right;
+      margin-right: 1em;
+    }
+    
+    .site .footer .contactr td {
+      padding-right: 10px;
+    }
+
+      .site .footer .contact a {
+      }
+
+    .site .footer .rss {
+      margin-top: 1.1em;
+      margin-right: -.2em;
+      float: right;
+    }
+
+      .site .footer .rss img {
+        border: 0;
+      }
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+#post {
+
+}
+
+  /* standard */
+
+  #post pre {
+    border: 1px solid #ddd;
+    padding: 0 .4em;
+  }
+
+  #post ul,
+  #post ol {
+    margin-left: 1.25em;
+  }
+
+  #post code {
+    color: #00f403;
+    border: 1px solid #ddd;
+    font-size: 95%;
+    padding: 0 .2em;
+  }
+
+    #post pre code {
+      border: none;
+    }
+
+  /* terminal */
+
+  #post pre.terminal {
+    border: 1px solid black;
+    color: #e5e5e5;
+  }
+
+  #post pre.terminal code {
+  }
+
+#related {
+  margin-top: 2em;
+}
+
+  #related h2 {
+    margin-bottom: 1em;
+  }
+
+#Random additions
+
+.centered {
+	text-align: center;
+}
+
+.caption {
+  color: white;
+	font-size: 75%;
+}
+
+.about {
+  color: white;
+  border-bottom: 1px solid white;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+
