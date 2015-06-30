@@ -74,8 +74,9 @@ title: A blog about computer programs
         </div>
         <div class="span8 text-center">
           <a href="https://www.facebook.com/kiran.m.kumar"><img src="/img/fb-icon.png"  class='socialmedia'/></a>		
-		  <a href="https://fi.linkedin.com/in/kiranmkumar"><img src="/img/in-icon.png"  class='socialmedia'/><a>			
-		  <a href="https://github.com/kirancodify"><img src="/img/github-icon.png"  class='socialmedia'/></a>			
+		  <a href="https://fi.linkedin.com/in/kiranmkumar"><img src="/img/in-icon.png"  class='socialmedia'><a>			
+		  <a href="https://github.com/kirancodify"><img src="/img/github-icon.png"  class='socialmedia'/></a>
+	          <a href="./mainprofile.html#contact"><img src="/img/mail-icon.png"  class='socialmedia'/></a>			
 		  <a href="#"><img src="/img/rss-icon.png"  class='socialmedia'/></a>						
         </div>
 		</div>
