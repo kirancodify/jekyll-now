@@ -124,7 +124,7 @@
   }
   [class*="span"] {
     float: left;
-    min-height: 0px;
+    min-height: 1px;
     margin-left: 30px;
   }
   .container,
@@ -474,7 +474,7 @@
   }
   [class*="span"] {
     float: left;
-    min-height: 0px;
+    min-height: 1px;
     margin-left: 20px;
   }
   .container,
